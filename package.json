@@ -1,0 +1,23 @@
+{
+  "name": "solve-bridge",
+  "version": "1.0.0",
+  "description": "https://en.wikipedia.org/wiki/Hashiwokakero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amar-Nandikol/solve-bridge.git"
+  },
+  "keywords": [
+    "Hashiwokakero",
+    "bridge"
+  ],
+  "author": "Amar-Nandikol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amar-Nandikol/solve-bridge/issues"
+  },
+  "homepage": "https://github.com/Amar-Nandikol/solve-bridge#readme"
+}
